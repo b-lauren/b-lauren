@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-lauren&label=Profile%20views&color=0e75b6&style=flat" alt="b-lauren" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & React**
-
 - 📫 How to reach me **b.laurenross@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
