@@ -1,9 +1,10 @@
 <h1 align="center">Hey 👋, I'm Rebecca</h1>
-<h3 align="center">A full-stack developer living in London</h3>
+<h3 align="center">A Full-Stack Developer living in London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-lauren&label=Profile%20views&color=0e75b6&style=flat" alt="b-lauren" /> </p>
 
 - 📫 How to reach me **b.laurenross@gmail.com**
+- My projects are available at: https://www.rebecca-ross.co.uk/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
