@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **b.laurenross@gmail.com**
 - My projects are available at - https://www.rebecca-ross.co.uk/
+- My GitLab - https://gitlab.com/rebecca-r
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
