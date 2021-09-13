@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rebecca </h1>
 <h3 align="center">A London-based Developer</h3>
-<h5 align="center">& Product Engineer Intern at Smartbnb</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-lauren&label=Profile%20views&color=0e75b6&style=flat" alt="b-lauren" /> </p>
 
